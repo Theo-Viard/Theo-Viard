@@ -6,7 +6,7 @@
   Male / 19yo / French developper / 2nd grade
 
 
-- 🎓 Still finding what I want to learn
+🎓 Still finding what I want to learn
 
 ## ✒️ What I love
 
