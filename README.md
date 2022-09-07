@@ -1,16 +1,16 @@
-### Hi there 👋
+# Hello World >:)
 
-<!--
-**Theo-Viard/Theo-Viard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Male / 19yo / French developper / 2nd grade
 
-Here are some ideas to get you started:
+- 🎓 Still finding what I want to learn
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ✒️ What I love
+
+![HTML5](https://img.icons8.com/color/30/html-5.png) ![CSS3](https://img.icons8.com/color/30/css3.png) ![Java](https://img.icons8.com/color/30/java.png) ![C++](https://img.icons8.com/dusk/344/c-plus-plus.png)
+
+![Valorant](https://img.icons8.com/plasticine/344/valorant.png) ![RocketLeague](https://img.icons8.com/fluency/344/rocket-league.png) ![VR](https://img.icons8.com/cute-clipart/344/virtual-reality.png)
+
+
+<p align='center'>
+  <img src="https://visitor-badge.glitch.me/badge?page_id=Theo-Viard" alt="visitor badge"/>
+</p>
