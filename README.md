@@ -1,7 +1,7 @@
 # Hello World >:)
 
 <div align="center">
-  <img src="https://images6.fanpop.com/image/photos/36500000/IllusionDolls-image-illusiondolls-36563080-1280-720.jpg" width="1280" height="720"/>
+  <img src="https://images6.fanpop.com/image/photos/36500000/IllusionDolls-image-illusiondolls-36563080-1280-720.jpg" width="1280" height="550"/>
 </div>
 
 Male / 19yo / French developper / 2nd grade
