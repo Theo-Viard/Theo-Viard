@@ -1,13 +1,14 @@
 # Hello World >:)
 
-<div>
+<div align="center">
   <img src="https://images6.fanpop.com/image/photos/36500000/IllusionDolls-image-illusiondolls-36563080-1280-720.jpg" width="800" height="450"/>
   
   Male / 19yo / French developper / 2nd year - IT University
 
 
 🎓 Still finding what I want to learn
-
+</div>
+<div>
 # ✒️ Knowledge
 ## Languages
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
